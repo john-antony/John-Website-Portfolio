@@ -19,7 +19,7 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a <b>Computer Science graduate</b> from
+        I am a recent <b>Computer Science graduate</b> from
         <a href="https://www.bu.edu/"> Boston University</a>, actively searching
         for work.
       </p>
@@ -74,7 +74,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img src={"/assets/me4.jpg"} />
+              <img src={"/assets/me4.JPG"} />
             </div>
           </div>
         </FadeInSection>

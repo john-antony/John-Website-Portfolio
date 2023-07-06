@@ -53,7 +53,7 @@ class Intro extends React.Component {
             {"  " + "Email"}
           </a>
           <div className="intro-buttonspace" />
-          <a href="mailto:jantony@bu.edu" className="intro-contact">
+          <a href="https://drive.google.com/file/d/1NnUHPFtsB9hsYolLy2j8NolCAyaDxC6X/view?usp=sharing" target="_blank" className="intro-contact">
             <DescriptionRoundedIcon></DescriptionRoundedIcon>
             {"  " + "Resume"}
           </a>
