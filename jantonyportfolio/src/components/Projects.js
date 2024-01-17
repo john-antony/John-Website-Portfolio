@@ -64,7 +64,7 @@ class Projects extends React.Component {
     const projects = {
       "FASHIONSCAPE MERN Web Application": {
         desc:
-          "Created a Pinterest inspired website with a focus on fashion and design. Utilized OpenAI to create a custom stylist chatbot," 
+          "Designed and implemented a Pinterest inspired website with a focus on fashion and design. Utilized OpenAI to create a custom stylist chatbot," 
           + " leveraged React for a dynamic frontend and Express backend to architect a robust, scalable platform. Leveraged Amazon S3 and MongoDB Atlas for cloud storage. "
           + "Integrated Firebase for secure user authentication.",
         techStack: "MongoDB Atlas, Express, React, Node, AWS, OPENAI, Firebase",
